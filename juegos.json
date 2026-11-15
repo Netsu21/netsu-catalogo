@@ -1,0 +1,22 @@
+{
+  "juegos": [
+    {
+      "id": "com.netsuapps.samuraiduelo",
+      "nombre": "Samurai Duelo",
+      "icono": "https://raw.githubusercontent.com/Netsu21/netsu-catalogo/main/icons/icon_512_samurai.png",
+      "url": "https://play.google.com/store/apps/details?id=com.netsuapps.samuraiduelo"
+    },
+    {
+      "id": "com.netsu.cubodisonante",
+      "nombre": "CuboDisonante",
+      "icono": "https://raw.githubusercontent.com/Netsu21/netsu-catalogo/main/icons/icon_512_disonante.png",
+      "url": "https://play.google.com/store/apps/details?id=com.netsu.cubodisonante"
+    },
+    {
+      "id": "com.netsu.DueloColores",
+      "nombre": "DueloColores",
+      "icono": "https://raw.githubusercontent.com/Netsu21/netsu-catalogo/main/icons/icon_512_colores.png",
+      "url": "https://play.google.com/store/apps/details?id=com.netsu.DueloColores"
+    }
+  ]
+}
